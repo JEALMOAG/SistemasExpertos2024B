@@ -1,0 +1,4 @@
+hola |Hola!
+como estas|Bien, gracias y tu?
+adios |Hasta luego!
+adios|Bye
